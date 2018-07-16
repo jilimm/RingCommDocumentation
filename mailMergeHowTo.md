@@ -7,7 +7,7 @@ Make sure you have the following windows **Desktop application**
 2. Microsoft Excel
 3. OutLook application **NOT the same as accessing outlook from your Internet browser**
 
-If you are unsure whether you have these applications, check that they appear when you *search for them in the Windows search bar*  
+If you are unsure whether you have these applications, check that they appear when you [*search for them in the Windows search bar*](OutlookDesktopApp.png) 
 
 ## 1. Preparing your Excel Sheet
 
