@@ -5,9 +5,9 @@ Documentation is verified for Windows 10 computer (not too sure how this works i
 Make sure you have the following windows **Desktop application**
 1. Microsoft Word
 2. Microsoft Excel
-3. OutLook application
+3. OutLook application **NOT the same as accessing outlook from your Internet browser**
 
-If yuo are unsure whether you have these applications, ensure the applciations are present when you *search for them in the Windows search bar*  
+If you are unsure whether you have these applications, check that they appear when you *search for them in the Windows search bar*  
 
 ## 1. Preparing your Excel Sheet
 
